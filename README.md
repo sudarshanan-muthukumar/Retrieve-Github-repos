@@ -1,1 +1,1 @@
-# Retrieve-Github-repos
+Python script to facilitate OAuth2 authentication with GitHub, enabling users to access their repository data. It retrieves repository details, including owner information, repository name, status (public/private), and star count, via the GitHub API. The data is stored in a PostgreSQL database, allowing for updates and inserts. Finally, the script exports the repository details to a CSV.
